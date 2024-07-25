@@ -69,7 +69,7 @@ namespace DoggyDayCare_Icetask1
             {
                 if (attrName.ToLower().Equals("age"))
                     return this.age;
-                if (attrName.ToLower().Equals("wieght"))
+                if (attrName.ToLower().Equals("weight"))
                     return this.dogWeight;
                 if (attrName.ToLower().Equals("kennel"))
                     return this.dogKennel;
