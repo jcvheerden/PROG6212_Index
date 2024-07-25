@@ -4,11 +4,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoggyDayCare_Icetask1", "DoggyDayCare_Icetask1\DoggyDayCare_Icetask1.csproj", "{B7E3F315-D6B0-4F5E-9C0C-304CE9F534A7}"
-	ProjectSection(ProjectDependencies) = postProject
-		{550A3DEC-CEBE-4C92-9327-D7CDB80BFE4B} = {550A3DEC-CEBE-4C92-9327-D7CDB80BFE4B}
-	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_DoggyDayCare", "UnitTest_DoggyDayCare\UnitTest_DoggyDayCare.csproj", "{550A3DEC-CEBE-4C92-9327-D7CDB80BFE4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoggyDayCare_tests", "DoggyDayCare_tests\DoggyDayCare_tests.csproj", "{C4378FA7-15CD-4016-AEB9-C7249CCA32F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,10 +17,10 @@ Global
 		{B7E3F315-D6B0-4F5E-9C0C-304CE9F534A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7E3F315-D6B0-4F5E-9C0C-304CE9F534A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7E3F315-D6B0-4F5E-9C0C-304CE9F534A7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{550A3DEC-CEBE-4C92-9327-D7CDB80BFE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{550A3DEC-CEBE-4C92-9327-D7CDB80BFE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{550A3DEC-CEBE-4C92-9327-D7CDB80BFE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{550A3DEC-CEBE-4C92-9327-D7CDB80BFE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4378FA7-15CD-4016-AEB9-C7249CCA32F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4378FA7-15CD-4016-AEB9-C7249CCA32F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4378FA7-15CD-4016-AEB9-C7249CCA32F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4378FA7-15CD-4016-AEB9-C7249CCA32F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
